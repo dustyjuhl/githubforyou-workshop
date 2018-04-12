@@ -4,7 +4,10 @@ This second exercise is the foundation of the GitHub workflow: branch, commit, p
 
 Objectives:
 1. Create a new branch (in your local repository) e.g. `readme-edits`
-`git checkout -b branch-name`
+-`git checkout -b branch-name`
 2. Make some changes, commit and push those changes
+-`git add file-name`
+-`git commit -m "commit message here"`
+-`git push origin branch-name`
 3. Open a Pull Request
 4. Merge the Pull Request back into the master branch
