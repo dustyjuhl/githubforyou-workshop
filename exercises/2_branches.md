@@ -9,5 +9,6 @@ Objectives:
 - `git add file-name`
 - `git commit -m "commit message here"`
 - `git push origin branch-name`
-3. Open a Pull Request
-4. Merge the Pull Request back into the master branch
+3. Open a Pull Request in GitHub
+4. Merge the Pull Request back into the master branch locally
+- `git pull`
