@@ -5,7 +5,7 @@ This second exercise is the foundation of the GitHub workflow: branch, commit, p
 Objectives:
 1. Create a new branch (in your local repository) e.g. `readme-edits`
 ```
-git checkout -b branch-name`
+git checkout -b branch-name
 ```
 2. Make some changes, commit and push those changes
 ```
