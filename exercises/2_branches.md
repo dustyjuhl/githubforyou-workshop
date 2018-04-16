@@ -3,7 +3,7 @@
 This second exercise is the foundation of the GitHub workflow: branch, commit, pull request, merge, deploy. You can do all of this in your existing repository.
 
 Objectives:
-1. Create a new branch (in your local repository) e.g. `readme-edits`
+1. Create a new branch (in your local repository) e.g. `branch-name`
 ```
 git checkout -b branch-name
 ```
